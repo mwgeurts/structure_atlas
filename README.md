@@ -1,7 +1,7 @@
 # RT Structure Atlas Matching Tools
 
 by Mark Geurts mark.w.geurts@gmail.com 
-Copyright&copy; 2015, University of Wisconsin Board of Regents
+<br>Copyright&copy; 2015, University of Wisconsin Board of Regents
 
 The RT Structure Atlas Matching Tools are a compilation of functions that are used to match structures from radiotherapy plans for determining dosimetric objectives, plan types (head and neck, pelvis, etc), or standardizing names.  The atlas is specified as an XML file (a generic atlas.xml is provided in this repository).  
 
