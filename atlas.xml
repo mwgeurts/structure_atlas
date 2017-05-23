@@ -85,6 +85,15 @@
       <category>HeadNeck</category>
    </structure>
    <structure>
+      <name>Cochlea</name>
+      <include>cochlea</include>
+      <exclude>resid|exp|-|+|prv</exclude>
+      <load>1</load>
+      <dx>50</dx>
+      <category>Brain</category>
+      <category>HeadNeck</category>
+   </structure>
+   <structure>
       <name>Optic Nerve</name>
       <include>op.*nerve</include>
       <exclude>resid|exp|-|+|prv</exclude>
